@@ -1,0 +1,10 @@
+body{
+    background-image: url("paper.gif");
+};
+
+.tieude{
+    src:url(lbr/font/MinecrafterAlt.ttf);
+};
+.infosv{
+    margin-top: 40px;
+}
